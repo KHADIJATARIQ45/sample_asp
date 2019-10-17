@@ -1,0 +1,11 @@
+C:\Users\khadija.tariq\source\repos\demoaks\demoaks\obj\Debug\netcoreapp1.0\demoaks.csproj.CoreCompileInputs.cache
+C:\Users\khadija.tariq\source\repos\demoaks\demoaks\obj\Debug\netcoreapp1.0\demoaks.AssemblyInfoInputs.cache
+C:\Users\khadija.tariq\source\repos\demoaks\demoaks\obj\Debug\netcoreapp1.0\demoaks.AssemblyInfo.cs
+C:\Users\khadija.tariq\source\repos\demoaks\demoaks\bin\Debug\netcoreapp1.0\demoaks.deps.json
+C:\Users\khadija.tariq\source\repos\demoaks\demoaks\bin\Debug\netcoreapp1.0\demoaks.runtimeconfig.json
+C:\Users\khadija.tariq\source\repos\demoaks\demoaks\bin\Debug\netcoreapp1.0\demoaks.runtimeconfig.dev.json
+C:\Users\khadija.tariq\source\repos\demoaks\demoaks\bin\Debug\netcoreapp1.0\demoaks.dll
+C:\Users\khadija.tariq\source\repos\demoaks\demoaks\bin\Debug\netcoreapp1.0\demoaks.pdb
+C:\Users\khadija.tariq\source\repos\demoaks\demoaks\obj\Debug\netcoreapp1.0\demoaks.csprojAssemblyReference.cache
+C:\Users\khadija.tariq\source\repos\demoaks\demoaks\obj\Debug\netcoreapp1.0\demoaks.dll
+C:\Users\khadija.tariq\source\repos\demoaks\demoaks\obj\Debug\netcoreapp1.0\demoaks.pdb
